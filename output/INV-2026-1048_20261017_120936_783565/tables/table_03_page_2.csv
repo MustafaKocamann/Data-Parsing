@@ -1,0 +1,21 @@
+﻿#,SKU,Description,Qty,UOM,Rate,Disc,Tax,Line total
+1,ERG-LS,"Ergonomic laptop stand
+Aluminium, silver",8,Nos,"2,450.00",5%,18%,"21,971.60"
+2,MON-ARM,"Dual monitor arm
+Gas spring, VESA",12,Nos,"5,200.00",10%,18%,"66,268.80"
+3,DOCK-11,"USB-C docking station
+11 ports, 100W PD",6,Nos,"12,800.00",5%,18%,"86,092.80"
+4,KB-MECH,"Mechanical keyboard
+Hot-swap, wireless",15,Nos,"3,450.00",0%,18%,"61,065.00"
+5,MSE-WL,"Wireless mouse
+Ergonomic, graphite",20,Nos,"1,250.00",2%,18%,"28,910.00"
+6,INSTALL,"On-site installation
+and workspace setup",1,Lot,"18,000.00",0%,18%,"21,240.00"
+7,FREIGHT,"Insured freight and
+last-mile delivery",1,Lot,"7,500.00",0%,18%,"8,850.00"
+8,WARRANTY,"Extended warranty
+24 months",1,Lot,"22,000.00",10%,18%,"23,364.00"
+9,TRAINING,"Admin orientation
+Remote session",2,Hrs,"8,000.00",0%,18%,"18,880.00"
+10,CABLE-C,"Braided USB-C cable
+2 metre, 100W",30,Nos,650.00,5%,18%,"21,859.50"

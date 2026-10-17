@@ -1,0 +1,8 @@
+﻿Component,USD,Notes
+Taxable value,"303,815.00",Source: item register
+Regional tax at 9%,"27,343.35",Washington regional supply
+Local tax at 9%,"27,343.35",Washington regional supply
+Other tax,0.00,Not applicable
+Cess,0.00,Not applicable
+Rounding adjustment,0.30,Nearest rupee
+Grand total,"358,502.00",Invoice payable value

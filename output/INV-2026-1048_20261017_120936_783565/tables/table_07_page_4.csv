@@ -1,0 +1,5 @@
+﻿Stage,Due / event,Amount (USD),Status,Reference
+Advance,PO acceptance,"100,000.00",Received,Transfer REF260905A81
+Milestone 1,18 Oct 2026,"155,101.20",Open,43.26% of invoice
+Milestone 2,01 Nov 2026,"103,400.80",Open,28.84% of invoice
+Retention,Not applicable,0.00,N/A,No retention clause

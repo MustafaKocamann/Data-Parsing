@@ -1,0 +1,443 @@
+[
+  {
+    "page_number": 1,
+    "data": [
+      [
+        "Reference",
+        "Value",
+        "Reference",
+        "Value"
+      ],
+      [
+        "Purchase order",
+        "PO-ARL-2609-778",
+        "PO date",
+        "05 Sep 2026"
+      ],
+      [
+        "Contract",
+        "MSA-NOS-2025-41",
+        "Due date",
+        "18 Oct 2026"
+      ],
+      [
+        "Delivery challan",
+        "DC-2026-921",
+        "Payment terms",
+        "Net 30"
+      ],
+      [
+        "E-invoice IRN",
+        "9d72b1...f04c (masked)",
+        "Reverse charge",
+        "No"
+      ],
+      [
+        "Account manager",
+        "Morgan Ellis",
+        "Project code",
+        "BLR-WKS-091"
+      ]
+    ]
+  },
+  {
+    "page_number": 1,
+    "data": [
+      [
+        "Description",
+        "Amount"
+      ],
+      [
+        "Gross value",
+        "USD 318,550.00"
+      ],
+      [
+        "Trade discount",
+        "(USD 14,735.00)"
+      ],
+      [
+        "Taxable value",
+        "USD 303,815.00"
+      ],
+      [
+        "Regional + Local Tax",
+        "USD 54,686.70"
+      ],
+      [
+        "Round off",
+        "USD 0.30"
+      ],
+      [
+        "Total Amount",
+        "USD 358,502.00"
+      ],
+      [
+        "Advance received",
+        "(USD 100,000.00)"
+      ],
+      [
+        "Balance due",
+        "USD 258,502.00"
+      ]
+    ]
+  },
+  {
+    "page_number": 2,
+    "data": [
+      [
+        "#",
+        "SKU",
+        "Description",
+        "Qty",
+        "UOM",
+        "Rate",
+        "Disc",
+        "Tax",
+        "Line total"
+      ],
+      [
+        "1",
+        "ERG-LS",
+        "Ergonomic laptop stand\nAluminium, silver",
+        "8",
+        "Nos",
+        "2,450.00",
+        "5%",
+        "18%",
+        "21,971.60"
+      ],
+      [
+        "2",
+        "MON-ARM",
+        "Dual monitor arm\nGas spring, VESA",
+        "12",
+        "Nos",
+        "5,200.00",
+        "10%",
+        "18%",
+        "66,268.80"
+      ],
+      [
+        "3",
+        "DOCK-11",
+        "USB-C docking station\n11 ports, 100W PD",
+        "6",
+        "Nos",
+        "12,800.00",
+        "5%",
+        "18%",
+        "86,092.80"
+      ],
+      [
+        "4",
+        "KB-MECH",
+        "Mechanical keyboard\nHot-swap, wireless",
+        "15",
+        "Nos",
+        "3,450.00",
+        "0%",
+        "18%",
+        "61,065.00"
+      ],
+      [
+        "5",
+        "MSE-WL",
+        "Wireless mouse\nErgonomic, graphite",
+        "20",
+        "Nos",
+        "1,250.00",
+        "2%",
+        "18%",
+        "28,910.00"
+      ],
+      [
+        "6",
+        "INSTALL",
+        "On-site installation\nand workspace setup",
+        "1",
+        "Lot",
+        "18,000.00",
+        "0%",
+        "18%",
+        "21,240.00"
+      ],
+      [
+        "7",
+        "FREIGHT",
+        "Insured freight and\nlast-mile delivery",
+        "1",
+        "Lot",
+        "7,500.00",
+        "0%",
+        "18%",
+        "8,850.00"
+      ],
+      [
+        "8",
+        "WARRANTY",
+        "Extended warranty\n24 months",
+        "1",
+        "Lot",
+        "22,000.00",
+        "10%",
+        "18%",
+        "23,364.00"
+      ],
+      [
+        "9",
+        "TRAINING",
+        "Admin orientation\nRemote session",
+        "2",
+        "Hrs",
+        "8,000.00",
+        "0%",
+        "18%",
+        "18,880.00"
+      ],
+      [
+        "10",
+        "CABLE-C",
+        "Braided USB-C cable\n2 metre, 100W",
+        "30",
+        "Nos",
+        "650.00",
+        "5%",
+        "18%",
+        "21,859.50"
+      ]
+    ]
+  },
+  {
+    "page_number": 3,
+    "data": [
+      [
+        "Item Code",
+        "Category",
+        "Taxable",
+        "Region",
+        "al Amount",
+        "Local",
+        "Amount"
+      ],
+      [
+        "84733099",
+        "Computer accessories",
+        "152,580.00",
+        "9%",
+        "13,732.20",
+        "9%",
+        "13,732.20"
+      ],
+      [
+        "84716060",
+        "Input devices",
+        "76,250.00",
+        "9%",
+        "6,862.50",
+        "9%",
+        "6,862.50"
+      ],
+      [
+        "998733",
+        "Installation / warranty",
+        "37,800.00",
+        "9%",
+        "3,402.00",
+        "9%",
+        "3,402.00"
+      ],
+      [
+        "996812",
+        "Freight services",
+        "7,500.00",
+        "9%",
+        "675.00",
+        "9%",
+        "675.00"
+      ],
+      [
+        "999293",
+        "Training services",
+        "16,000.00",
+        "9%",
+        "1,440.00",
+        "9%",
+        "1,440.00"
+      ],
+      [
+        "85444299",
+        "Insulated cables",
+        "13,685.00",
+        "9%",
+        "1,231.65",
+        "9%",
+        "1,231.65"
+      ]
+    ]
+  },
+  {
+    "page_number": 3,
+    "data": [
+      [
+        "Component",
+        "USD",
+        "Notes"
+      ],
+      [
+        "Taxable value",
+        "303,815.00",
+        "Source: item register"
+      ],
+      [
+        "Regional tax at 9%",
+        "27,343.35",
+        "Washington regional supply"
+      ],
+      [
+        "Local tax at 9%",
+        "27,343.35",
+        "Washington regional supply"
+      ],
+      [
+        "Other tax",
+        "0.00",
+        "Not applicable"
+      ],
+      [
+        "Cess",
+        "0.00",
+        "Not applicable"
+      ],
+      [
+        "Rounding adjustment",
+        "0.30",
+        "Nearest rupee"
+      ],
+      [
+        "Grand total",
+        "358,502.00",
+        "Invoice payable value"
+      ]
+    ]
+  },
+  {
+    "page_number": 4,
+    "data": [
+      [
+        "Date",
+        "Reference",
+        "Document / quantity",
+        "Location / owner",
+        "Status"
+      ],
+      [
+        "11 Sep 2026",
+        "BLR-WH-04",
+        "E-Way Bill 181009224771",
+        "Northline Freight",
+        "Dispatched"
+      ],
+      [
+        "13 Sep 2026",
+        "LR-BD-884210",
+        "4 pallets / 286 kg",
+        "Dock 3, Orion Campus",
+        "Delivered"
+      ],
+      [
+        "14 Sep 2026",
+        "GRN-ARL-77219",
+        "Received by R. Mason",
+        "No visible damage",
+        "Accepted"
+      ],
+      [
+        "16 Sep 2026",
+        "SRV-90214",
+        "Installation completed",
+        "48 workstations",
+        "Signed off"
+      ]
+    ]
+  },
+  {
+    "page_number": 4,
+    "data": [
+      [
+        "Stage",
+        "Due / event",
+        "Amount (USD)",
+        "Status",
+        "Reference"
+      ],
+      [
+        "Advance",
+        "PO acceptance",
+        "100,000.00",
+        "Received",
+        "Transfer REF260905A81"
+      ],
+      [
+        "Milestone 1",
+        "18 Oct 2026",
+        "155,101.20",
+        "Open",
+        "43.26% of invoice"
+      ],
+      [
+        "Milestone 2",
+        "01 Nov 2026",
+        "103,400.80",
+        "Open",
+        "28.84% of invoice"
+      ],
+      [
+        "Retention",
+        "Not applicable",
+        "0.00",
+        "N/A",
+        "No retention clause"
+      ]
+    ]
+  },
+  {
+    "page_number": 5,
+    "data": [
+      [
+        "Step",
+        "Actor",
+        "Role",
+        "Timestamp (PT)",
+        "Result"
+      ],
+      [
+        "Prepared",
+        "Anna Shaw",
+        "Billing Analyst",
+        "18 Sep 2026 10:14",
+        "Completed"
+      ],
+      [
+        "Reviewed",
+        "Victor Hale",
+        "Finance Manager",
+        "18 Sep 2026 11:02",
+        "Completed"
+      ],
+      [
+        "Tax check",
+        "Rules Engine v3.8",
+        "Automated control",
+        "18 Sep 2026 11:03",
+        "Passed"
+      ],
+      [
+        "Customer acceptance",
+        "R. Mason",
+        "Facilities Lead",
+        "16 Sep 2026 17:42",
+        "Signed"
+      ]
+    ]
+  }
+]

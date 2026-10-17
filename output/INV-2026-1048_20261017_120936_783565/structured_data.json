@@ -1,0 +1,601 @@
+{
+  "metadata": {
+    "doc_id": "invoice_document",
+    "original_source": "Local Demo File",
+    "original_path": "invoice.pdf",
+    "storage_path": "memory",
+    "file_type": "pdf",
+    "department": "finance",
+    "status": "stored_in_memory"
+  },
+  "invoice": {
+    "invoice_number": "INV-2026-1048",
+    "invoice_date": "18 Sep 2026",
+    "vendor_name": "Lumenridge Office Solutions LLC",
+    "customer_name": "Asteria Retail Labs Limited",
+    "total_amount": null,
+    "currency": "INR",
+    "line_items": [
+      {
+        "sku": "ERG-LS",
+        "item": "Ergonomic laptop stand Aluminium, silver",
+        "quantity": 8,
+        "uom": "Nos",
+        "unit_price": 2450,
+        "discount": "5%",
+        "tax": null,
+        "amount": 21971.6
+      },
+      {
+        "sku": "MON-ARM",
+        "item": "Dual monitor arm Gas spring, VESA",
+        "quantity": 12,
+        "uom": "Nos",
+        "unit_price": 5200,
+        "discount": "10%",
+        "tax": null,
+        "amount": 66268.8
+      },
+      {
+        "sku": "DOCK-11",
+        "item": "USB-C docking station 11 ports, 100W PD",
+        "quantity": 6,
+        "uom": "Nos",
+        "unit_price": 12800,
+        "discount": "5%",
+        "tax": null,
+        "amount": 86092.8
+      },
+      {
+        "sku": "KB-MECH",
+        "item": "Mechanical keyboard Hot-swap, wireless",
+        "quantity": 15,
+        "uom": "Nos",
+        "unit_price": 3450,
+        "discount": "0%",
+        "tax": null,
+        "amount": 61065
+      },
+      {
+        "sku": "MSE-WL",
+        "item": "Wireless mouse Ergonomic, graphite",
+        "quantity": 20,
+        "uom": "Nos",
+        "unit_price": 1250,
+        "discount": "2%",
+        "tax": null,
+        "amount": 28910
+      },
+      {
+        "sku": "INSTALL",
+        "item": "On-site installation and workspace setup",
+        "quantity": 1,
+        "uom": "Lot",
+        "unit_price": 18000,
+        "discount": "0%",
+        "tax": null,
+        "amount": 21240
+      },
+      {
+        "sku": "FREIGHT",
+        "item": "Insured freight and last-mile delivery",
+        "quantity": 1,
+        "uom": "Lot",
+        "unit_price": 7500,
+        "discount": "0%",
+        "tax": null,
+        "amount": 8850
+      },
+      {
+        "sku": "WARRANTY",
+        "item": "Extended warranty 24 months",
+        "quantity": 1,
+        "uom": "Lot",
+        "unit_price": 22000,
+        "discount": "10%",
+        "tax": null,
+        "amount": 23364
+      },
+      {
+        "sku": "TRAINING",
+        "item": "Admin orientation Remote session",
+        "quantity": 2,
+        "uom": "Hrs",
+        "unit_price": 8000,
+        "discount": "0%",
+        "tax": null,
+        "amount": 18880
+      },
+      {
+        "sku": "CABLE-C",
+        "item": "Braided USB-C cable 2 metre, 100W",
+        "quantity": 30,
+        "uom": "Nos",
+        "unit_price": 650,
+        "discount": "5%",
+        "tax": null,
+        "amount": 21859.5
+      }
+    ]
+  },
+  "parsed_pages": [
+    {
+      "page_number": 1,
+      "text": "Invoice Number: INV-2026-1048\nInvoice Date: 18 Sep 2026\nTOTAL PAYABLE\nSUPPLIER AND CUSTOMER\nVENDOR / SUPPLIER\nBILL TO / SHIP TO\nCustomer Name: Asteria Retail Labs Limited\nCOMMERCIAL REFERENCES\nReference\nValue\nReference\nValue\nPurchase order\nPO-ARL-2609-778\nPO date\n05 Sep 2026\nContract\nMSA-NOS-2025-41\nDue date\n18 Oct 2026\nDelivery challan\nDC-2026-921\nPayment terms\nNet 30\nE-invoice IRN\n9d72b1...f04c (masked)\nReverse charge\nNo\nAccount manager\nProject code\nBLR-WKS-091\nINVOICE SUMMARY\nDescription\nAmount\nGross value\nTrade discount\nTaxable value\nRound off\nTotal Amount\nAdvance received\nBalance due\nINVOICE OVERVIEW\nTAX INVOICE | ORIGINAL FOR RECIPIENT\nINV-2026-1048\nSynthetic training document - no commercial value\nPAGE 1 OF 5\nTotal Amount: USD 358,502\nVendor Name: Lumenridge Office Solutions LLC\nSuite 804, Meridian Business Park\nSeattle, Washington 98101\nTax ID: 91-4821048 | Registration: WA-1048\nEmail: finance@lumenridge.example | +1 206 555 0188\nBellevue, Washington 98004\nTax ID: 84-7712042 | Supply region: WA\nAP contact: ap@asteria.example | +1 425 555 7712\nMorgan Ellis\nUSD 318,550.00\n(USD 14,735.00)\nUSD 303,815.00\nRegional + Local Tax\nUSD 54,686.70\nUSD 0.30\nUSD 358,502.00\n(USD 100,000.00)\nUSD 258,502.00\nAmount in words: US Dollars Three Hundred Fifty-Eight Thousand Five Hundred Two Only.\nLUMENRIDGE\nOFFICE SOLUTIONS LLC\nLumenridge Office Solutions LLC | Tax ID 91-4821048 | finance@lumenridge.example"
+    },
+    {
+      "page_number": 2,
+      "text": "GOODS AND SERVICES SUPPLIED\n#\nSKU\nDescription\nQty\nUOM\nRate\nDisc\nLine total\n1\nERG-LS\nErgonomic laptop stand\nAluminium, silver\n8\nNos\n2,450.00\n5%\n18%\n21,971.60\n2\nMON-ARM\nDual monitor arm\nGas spring, VESA\n12\nNos\n5,200.00\n10%\n18%\n66,268.80\n3\nDOCK-11\nUSB-C docking station\n11 ports, 100W PD\n6\nNos\n12,800.00\n5%\n18%\n86,092.80\n4\nKB-MECH\nMechanical keyboard\nHot-swap, wireless\n15\nNos\n3,450.00\n0%\n18%\n61,065.00\n5\nMSE-WL\nWireless mouse\nErgonomic, graphite\n20\nNos\n1,250.00\n2%\n18%\n28,910.00\n6\nINSTALL\nOn-site installation\nand workspace setup\n1\nLot\n18,000.00\n0%\n18%\n21,240.00\n7\nFREIGHT\nInsured freight and\nlast-mile delivery\n1\nLot\n7,500.00\n0%\n18%\n8,850.00\n8\nWARRANTY\nExtended warranty\n24 months\n1\nLot\n22,000.00\n10%\n18%\n23,364.00\n9\nTRAINING\nAdmin orientation\nRemote session\n2\nHrs\n8,000.00\n0%\n18%\n18,880.00\n10\nCABLE-C\nBraided USB-C cable\n2 metre, 100W\n30\nNos\n650.00\n5%\n18%\n21,859.50\nGross item value\nDiscounts\nTaxable subtotal\nITEMIZED SUPPLIES\nTAX INVOICE | ORIGINAL FOR RECIPIENT\nINV-2026-1048\nSynthetic training document - no commercial value\nPAGE 2 OF 5\nPrices are in USD. Taxable value is calculated after line-level discount.\nTax\nUSD 318,550.00\nUSD 14,735.00\nUSD 303,815.00\nLUMENRIDGE\nOFFICE SOLUTIONS LLC\nLumenridge Office Solutions LLC | Tax ID 91-4821048 | finance@lumenridge.example"
+    },
+    {
+      "page_number": 3,
+      "text": "Category\nTaxable\nAmount\nAmount\n84733099\nComputer accessories\n152,580.00\n9%\n13,732.20\n9%\n13,732.20\n84716060\nInput devices\n76,250.00\n9%\n6,862.50\n9%\n6,862.50\n998733\nInstallation / warranty\n37,800.00\n9%\n3,402.00\n9%\n3,402.00\n996812\nFreight services\n7,500.00\n9%\n675.00\n9%\n675.00\n999293\nTraining services\n16,000.00\n9%\n1,440.00\n9%\n1,440.00\n85444299\nInsulated cables\n13,685.00\n9%\n1,231.65\n9%\n1,231.65\nTOTAL\n303,815.00\n27,343.35\n27,343.35\nAMOUNT RECONCILIATION\nComponent\nNotes\nTaxable value\n303,815.00\nSource: item register\n27,343.35\n27,343.35\n0.00\nNot applicable\nCess\n0.00\nNot applicable\nRounding adjustment\n0.30\nNearest rupee\nGrand total\n358,502.00\nInvoice payable value\nCOMPLIANCE NOTE\nTAX AND RECONCILIATION\nTAX INVOICE | ORIGINAL FOR RECIPIENT\nINV-2026-1048\nSynthetic training document - no commercial value\nPAGE 3 OF 5\nTAX CLASSIFICATION SUMMARY\nItem Code\nRegional\nLocal\nUSD\nRegional tax at 9%\nWashington regional supply\nLocal tax at 9%\nWashington regional supply\nOther tax\nCURRENCY REFERENCE (NON-ACCOUNTING)\nReference rate on 18 Sep 2026: Amounts are shown in USD; settlement must be made in USD.\nDeductions, withholding tax, and tax credit eligibility must be evaluated by the recipient under applicable law.\nLUMENRIDGE\nOFFICE SOLUTIONS LLC\nLumenridge Office Solutions LLC | Tax ID 91-4821048 | finance@lumenridge.example"
+    },
+    {
+      "page_number": 4,
+      "text": "SHIPMENT AND ACCEPTANCE TRAIL\nDate\nReference\nDocument / quantity\nLocation / owner\nStatus\n11 Sep 2026\nBLR-WH-04\nE-Way Bill 181009224771\nDispatched\n13 Sep 2026\nLR-BD-884210\n4 pallets / 286 kg\nDock 3, Orion Campus\nDelivered\n14 Sep 2026\nGRN-ARL-77219\nNo visible damage\nAccepted\n16 Sep 2026\nSRV-90214\nInstallation completed\n48 workstations\nSigned off\nPAYMENT SCHEDULE\nStage\nDue / event\nStatus\nReference\nAdvance\nPO acceptance\n100,000.00\nReceived\nMilestone 1\n18 Oct 2026\n155,101.20\nOpen\n43.26% of invoice\nMilestone 2\n01 Nov 2026\n103,400.80\nOpen\n28.84% of invoice\nRetention\nNot applicable\n0.00\nN/A\nNo retention clause\nREMITTANCE INSTRUCTIONS\nBANK TRANSFER\nPAYMENT REFERENCE\nAlways quote:\nINV-2026-1048\nPO-ARL-2609-778\nCustomer ID ARL-00419\nCONTROLS\nFraud prevention: bank-detail changes are never communicated only through email. Confirm changes using an approved callback number.\nLOGISTICS AND PAYMENT\nTAX INVOICE | ORIGINAL FOR RECIPIENT\nINV-2026-1048\nSynthetic training document - no commercial value\nPAGE 4 OF 5\nNorthline Freight\nReceived by R. Mason\nAmount (USD)\nTransfer REF260905A81\nBeneficiary: Lumenridge Office Solutions LLC\nRouting: 021000021 | SWIFT: EXAMPUS33\nBranch: Seattle, Washington\nRemittance email: treasury@lumenridge.example\n[X] Three-way match required [X] Duplicate-invoice check [X] Tax ID validation [ ] Manual override\nLUMENRIDGE\nOFFICE SOLUTIONS LLC\nLumenridge Office Solutions LLC | Tax ID 91-4821048 | finance@lumenridge.example"
+    },
+    {
+      "page_number": 5,
+      "text": "COMMERCIAL TERMS\n1. Payment is due within 30 calendar days of the invoice date unless the milestone schedule states otherwise.\n2. Shortage, damage, or specification variance must be reported within five business days of delivery.\n3. Hardware returns require an RMA number. Opened consumables and custom-configured products are non-returnable.\n4. Standard warranty is 12 months; the extended-warranty line adds 24 months for covered equipment.\n5. Late undisputed balances may attract interest at 1.0% per month, subject to applicable law and contract terms.\n6. Title transfers on full payment. Risk transfers upon signed delivery at the ship-to location.\n8. This invoice contains synthetic names, identifiers, contacts, and banking data created only for training.\nAPPROVAL MATRIX\nStep\nActor\nRole\nResult\nPrepared\nBilling Analyst\n18 Sep 2026 10:14\nCompleted\nReviewed\nFinance Manager\n18 Sep 2026 11:02\nCompleted\nTax check\nRules Engine v3.8\nAutomated control\n18 Sep 2026 11:03\nPassed\nCustomer acceptance\nFacilities Lead\n16 Sep 2026 17:42\nSigned\nAUDIT AND SUPPORT\nDocument hash\nSHA256: 98A7...D31F (illustrative)\nSupport\nDigitally generated invoice\nTERMS, APPROVALS AND AUDIT\nTAX INVOICE | ORIGINAL FOR RECIPIENT\nINV-2026-1048\nSynthetic training document - no commercial value\nPAGE 5 OF 5\n7. Disputes are governed by the master services agreement and courts located in Seattle, Washington.\nTimestamp (PT)\nAnna Shaw\nVictor Hale\nR. Mason\nbilling@lumenridge.example | Case portal: support.lumenridge.example\nFor Lumenridge Office Solutions LLC\nLUMENRIDGE\nOFFICE SOLUTIONS LLC\nLumenridge Office Solutions LLC | Tax ID 91-4821048 | finance@lumenridge.example"
+    }
+  ],
+  "parsed_tables": [
+    {
+      "page_number": 1,
+      "data": [
+        [
+          "Reference",
+          "Value",
+          "Reference",
+          "Value"
+        ],
+        [
+          "Purchase order",
+          "PO-ARL-2609-778",
+          "PO date",
+          "05 Sep 2026"
+        ],
+        [
+          "Contract",
+          "MSA-NOS-2025-41",
+          "Due date",
+          "18 Oct 2026"
+        ],
+        [
+          "Delivery challan",
+          "DC-2026-921",
+          "Payment terms",
+          "Net 30"
+        ],
+        [
+          "E-invoice IRN",
+          "9d72b1...f04c (masked)",
+          "Reverse charge",
+          "No"
+        ],
+        [
+          "Account manager",
+          "Morgan Ellis",
+          "Project code",
+          "BLR-WKS-091"
+        ]
+      ]
+    },
+    {
+      "page_number": 1,
+      "data": [
+        [
+          "Description",
+          "Amount"
+        ],
+        [
+          "Gross value",
+          "USD 318,550.00"
+        ],
+        [
+          "Trade discount",
+          "(USD 14,735.00)"
+        ],
+        [
+          "Taxable value",
+          "USD 303,815.00"
+        ],
+        [
+          "Regional + Local Tax",
+          "USD 54,686.70"
+        ],
+        [
+          "Round off",
+          "USD 0.30"
+        ],
+        [
+          "Total Amount",
+          "USD 358,502.00"
+        ],
+        [
+          "Advance received",
+          "(USD 100,000.00)"
+        ],
+        [
+          "Balance due",
+          "USD 258,502.00"
+        ]
+      ]
+    },
+    {
+      "page_number": 2,
+      "data": [
+        [
+          "#",
+          "SKU",
+          "Description",
+          "Qty",
+          "UOM",
+          "Rate",
+          "Disc",
+          "Tax",
+          "Line total"
+        ],
+        [
+          "1",
+          "ERG-LS",
+          "Ergonomic laptop stand\nAluminium, silver",
+          "8",
+          "Nos",
+          "2,450.00",
+          "5%",
+          "18%",
+          "21,971.60"
+        ],
+        [
+          "2",
+          "MON-ARM",
+          "Dual monitor arm\nGas spring, VESA",
+          "12",
+          "Nos",
+          "5,200.00",
+          "10%",
+          "18%",
+          "66,268.80"
+        ],
+        [
+          "3",
+          "DOCK-11",
+          "USB-C docking station\n11 ports, 100W PD",
+          "6",
+          "Nos",
+          "12,800.00",
+          "5%",
+          "18%",
+          "86,092.80"
+        ],
+        [
+          "4",
+          "KB-MECH",
+          "Mechanical keyboard\nHot-swap, wireless",
+          "15",
+          "Nos",
+          "3,450.00",
+          "0%",
+          "18%",
+          "61,065.00"
+        ],
+        [
+          "5",
+          "MSE-WL",
+          "Wireless mouse\nErgonomic, graphite",
+          "20",
+          "Nos",
+          "1,250.00",
+          "2%",
+          "18%",
+          "28,910.00"
+        ],
+        [
+          "6",
+          "INSTALL",
+          "On-site installation\nand workspace setup",
+          "1",
+          "Lot",
+          "18,000.00",
+          "0%",
+          "18%",
+          "21,240.00"
+        ],
+        [
+          "7",
+          "FREIGHT",
+          "Insured freight and\nlast-mile delivery",
+          "1",
+          "Lot",
+          "7,500.00",
+          "0%",
+          "18%",
+          "8,850.00"
+        ],
+        [
+          "8",
+          "WARRANTY",
+          "Extended warranty\n24 months",
+          "1",
+          "Lot",
+          "22,000.00",
+          "10%",
+          "18%",
+          "23,364.00"
+        ],
+        [
+          "9",
+          "TRAINING",
+          "Admin orientation\nRemote session",
+          "2",
+          "Hrs",
+          "8,000.00",
+          "0%",
+          "18%",
+          "18,880.00"
+        ],
+        [
+          "10",
+          "CABLE-C",
+          "Braided USB-C cable\n2 metre, 100W",
+          "30",
+          "Nos",
+          "650.00",
+          "5%",
+          "18%",
+          "21,859.50"
+        ]
+      ]
+    },
+    {
+      "page_number": 3,
+      "data": [
+        [
+          "Item Code",
+          "Category",
+          "Taxable",
+          "Region",
+          "al Amount",
+          "Local",
+          "Amount"
+        ],
+        [
+          "84733099",
+          "Computer accessories",
+          "152,580.00",
+          "9%",
+          "13,732.20",
+          "9%",
+          "13,732.20"
+        ],
+        [
+          "84716060",
+          "Input devices",
+          "76,250.00",
+          "9%",
+          "6,862.50",
+          "9%",
+          "6,862.50"
+        ],
+        [
+          "998733",
+          "Installation / warranty",
+          "37,800.00",
+          "9%",
+          "3,402.00",
+          "9%",
+          "3,402.00"
+        ],
+        [
+          "996812",
+          "Freight services",
+          "7,500.00",
+          "9%",
+          "675.00",
+          "9%",
+          "675.00"
+        ],
+        [
+          "999293",
+          "Training services",
+          "16,000.00",
+          "9%",
+          "1,440.00",
+          "9%",
+          "1,440.00"
+        ],
+        [
+          "85444299",
+          "Insulated cables",
+          "13,685.00",
+          "9%",
+          "1,231.65",
+          "9%",
+          "1,231.65"
+        ]
+      ]
+    },
+    {
+      "page_number": 3,
+      "data": [
+        [
+          "Component",
+          "USD",
+          "Notes"
+        ],
+        [
+          "Taxable value",
+          "303,815.00",
+          "Source: item register"
+        ],
+        [
+          "Regional tax at 9%",
+          "27,343.35",
+          "Washington regional supply"
+        ],
+        [
+          "Local tax at 9%",
+          "27,343.35",
+          "Washington regional supply"
+        ],
+        [
+          "Other tax",
+          "0.00",
+          "Not applicable"
+        ],
+        [
+          "Cess",
+          "0.00",
+          "Not applicable"
+        ],
+        [
+          "Rounding adjustment",
+          "0.30",
+          "Nearest rupee"
+        ],
+        [
+          "Grand total",
+          "358,502.00",
+          "Invoice payable value"
+        ]
+      ]
+    },
+    {
+      "page_number": 4,
+      "data": [
+        [
+          "Date",
+          "Reference",
+          "Document / quantity",
+          "Location / owner",
+          "Status"
+        ],
+        [
+          "11 Sep 2026",
+          "BLR-WH-04",
+          "E-Way Bill 181009224771",
+          "Northline Freight",
+          "Dispatched"
+        ],
+        [
+          "13 Sep 2026",
+          "LR-BD-884210",
+          "4 pallets / 286 kg",
+          "Dock 3, Orion Campus",
+          "Delivered"
+        ],
+        [
+          "14 Sep 2026",
+          "GRN-ARL-77219",
+          "Received by R. Mason",
+          "No visible damage",
+          "Accepted"
+        ],
+        [
+          "16 Sep 2026",
+          "SRV-90214",
+          "Installation completed",
+          "48 workstations",
+          "Signed off"
+        ]
+      ]
+    },
+    {
+      "page_number": 4,
+      "data": [
+        [
+          "Stage",
+          "Due / event",
+          "Amount (USD)",
+          "Status",
+          "Reference"
+        ],
+        [
+          "Advance",
+          "PO acceptance",
+          "100,000.00",
+          "Received",
+          "Transfer REF260905A81"
+        ],
+        [
+          "Milestone 1",
+          "18 Oct 2026",
+          "155,101.20",
+          "Open",
+          "43.26% of invoice"
+        ],
+        [
+          "Milestone 2",
+          "01 Nov 2026",
+          "103,400.80",
+          "Open",
+          "28.84% of invoice"
+        ],
+        [
+          "Retention",
+          "Not applicable",
+          "0.00",
+          "N/A",
+          "No retention clause"
+        ]
+      ]
+    },
+    {
+      "page_number": 5,
+      "data": [
+        [
+          "Step",
+          "Actor",
+          "Role",
+          "Timestamp (PT)",
+          "Result"
+        ],
+        [
+          "Prepared",
+          "Anna Shaw",
+          "Billing Analyst",
+          "18 Sep 2026 10:14",
+          "Completed"
+        ],
+        [
+          "Reviewed",
+          "Victor Hale",
+          "Finance Manager",
+          "18 Sep 2026 11:02",
+          "Completed"
+        ],
+        [
+          "Tax check",
+          "Rules Engine v3.8",
+          "Automated control",
+          "18 Sep 2026 11:03",
+          "Passed"
+        ],
+        [
+          "Customer acceptance",
+          "R. Mason",
+          "Facilities Lead",
+          "16 Sep 2026 17:42",
+          "Signed"
+        ]
+      ]
+    }
+  ],
+  "saved_output": {
+    "folder": "output\\INV-2026-1048_20261017_120936_783565",
+    "structured_json": "output\\INV-2026-1048_20261017_120936_783565\\structured_data.json",
+    "tables_json": "output\\INV-2026-1048_20261017_120936_783565\\tables.json",
+    "table_csv_files": [
+      "output\\INV-2026-1048_20261017_120936_783565\\tables\\table_01_page_1.csv",
+      "output\\INV-2026-1048_20261017_120936_783565\\tables\\table_02_page_1.csv",
+      "output\\INV-2026-1048_20261017_120936_783565\\tables\\table_03_page_2.csv",
+      "output\\INV-2026-1048_20261017_120936_783565\\tables\\table_04_page_3.csv",
+      "output\\INV-2026-1048_20261017_120936_783565\\tables\\table_05_page_3.csv",
+      "output\\INV-2026-1048_20261017_120936_783565\\tables\\table_06_page_4.csv",
+      "output\\INV-2026-1048_20261017_120936_783565\\tables\\table_07_page_4.csv",
+      "output\\INV-2026-1048_20261017_120936_783565\\tables\\table_08_page_5.csv"
+    ]
+  }
+}
